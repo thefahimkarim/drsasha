@@ -1,0 +1,800 @@
+{
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#FAFCFF",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#4C8EDA",
+    "border-width": 2,
+    "border-color": "#2870c2",
+    "radius": 25,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#ffffff",
+    "caption-font-size": 10,
+    "caption-font-weight": "normal",
+    "label-position": "outside",
+    "label-display": "bare",
+    "label-color": "#ffffff",
+    "label-background-color": "#4C8EDA",
+    "label-border-color": "#4C8EDA",
+    "label-border-width": 0,
+    "label-font-size": 10,
+    "label-padding": 2,
+    "label-margin": 2,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 1,
+    "arrow-color": "#A5ABB6",
+    "margin-start": 0,
+    "margin-end": 0,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 10,
+    "type-padding": 2,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 10,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": -105.97550654409096,
+        "y": 50.34037986896786
+      },
+      "caption": "White House",
+      "style": {
+        "node-color": "#fcdc00",
+        "label-color": "#000000",
+        "caption-color": "#000000"
+      },
+      "labels": [
+        "Executive"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": 147.35873128573246,
+        "y": -57.05272236684658
+      },
+      "caption": "Securities and Exchange Commission",
+      "style": {
+        "node-color": "#653294",
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Department"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": 409.69203529646995,
+        "y": -57.05272236684658
+      },
+      "caption": "Enforcement Division",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": -73.19490115491834,
+        "y": -262.5377775524988
+      },
+      "caption": "United States Postal Service",
+      "style": {
+        "node-color": "#653294",
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Department"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": -48.94445045300671,
+        "y": -493.9989187418053
+      },
+      "caption": "US Postal Inspection Service",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": 89.86286052295111,
+        "y": -218.8416646766987
+      },
+      "caption": "Office of Science and Technology",
+      "style": {
+        "node-color": "#653294",
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Department"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": 343.6619130244716,
+        "y": -283.72411200612873
+      },
+      "caption": "DHS",
+      "style": {
+        "node-color": "#653294",
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Department"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": 343.6619130244716,
+        "y": -493.9989187418053
+      },
+      "caption": "ICE",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": 194.89249575266228,
+        "y": -397.7385876500627
+      },
+      "caption": "USSS",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": 519.5081759938581,
+        "y": -218.8416646766987
+      },
+      "caption": "CISA",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": -274.5972046399944,
+        "y": -333.5402334337616
+      },
+      "caption": "Department of Treasury",
+      "style": {
+        "node-color": "#653294",
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Department"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": -242.71710068860028,
+        "y": -587.9869403894504
+      },
+      "caption": "IRS",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": -469.08458348078665,
+        "y": -500.6752901399596
+      },
+      "caption": "TFI",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n13",
+      "position": {
+        "x": -378.54826381311113,
+        "y": -195.8600333428042
+      },
+      "caption": "National Security Council",
+      "style": {
+        "node-color": "#653294",
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Department"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": -378.54826381311113,
+        "y": 5.837278208256379
+      },
+      "caption": "United States Agency for International Development",
+      "style": {
+        "node-color": "#653294",
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Department"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": -561.2505518771375,
+        "y": -99.64593698706979
+      },
+      "caption": "Regional & Thematic Bureau",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 22.32876218102196,
+        "y": 272.5698921288339
+      },
+      "caption": "FTC",
+      "style": {
+        "node-color": "#653294",
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Department"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": -469.08458348078665,
+        "y": 259.98150318356585
+      },
+      "caption": "DOJ",
+      "style": {
+        "node-color": "#653294",
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Department"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": -611.106660928767,
+        "y": 567.134603431376
+      },
+      "caption": "Interpol",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": -610.4234473940959,
+        "y": 50.34037986896786
+      },
+      "caption": "CRM",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": -794.008558165239,
+        "y": 72.43577851668027
+      },
+      "caption": "SLTT",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": -807.4827180419593,
+        "y": 259.98150318356585
+      },
+      "caption": "ATF",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": -775.1060473101516,
+        "y": 477.00650598578363
+      },
+      "caption": "FBI",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": -426.91188080868363,
+        "y": 595.741477903323
+      },
+      "caption": "NSD",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n24",
+      "position": {
+        "x": -242.71710068860028,
+        "y": 595.741477903323
+      },
+      "caption": "USMS",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n25",
+      "position": {
+        "x": -143.13650675192753,
+        "y": 477.00650598578363
+      },
+      "caption": "USAO",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n26",
+      "position": {
+        "x": -202.1671968258232,
+        "y": 319.28094101386654
+      },
+      "caption": "NSD",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n27",
+      "position": {
+        "x": 63.757518957615346,
+        "y": 525.8120679295678
+      },
+      "caption": "Criminal Liason Unit",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n28",
+      "position": {
+        "x": 257.65483072488416,
+        "y": 210.02627278440622
+      },
+      "caption": "Department of State",
+      "style": {
+        "node-color": "#653294",
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Department"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n29",
+      "position": {
+        "x": 452.0799664279623,
+        "y": 98.78604937595354
+      },
+      "caption": "Office of National Cyber Director",
+      "style": {
+        "node-color": "#653294",
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Department"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n30",
+      "position": {
+        "x": 257.65483072488416,
+        "y": 370.0601336332133
+      },
+      "caption": "INL",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n31",
+      "position": {
+        "x": 409.69203529646995,
+        "y": 259.98150318356585
+      },
+      "caption": "S/CCI",
+      "style": {
+        "label-color": "#000000"
+      },
+      "labels": [
+        "Agency"
+      ],
+      "properties": {}
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n1"
+    },
+    {
+      "id": "n1",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n2"
+    },
+    {
+      "id": "n2",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n3"
+    },
+    {
+      "id": "n3",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n3",
+      "toId": "n4"
+    },
+    {
+      "id": "n4",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n5"
+    },
+    {
+      "id": "n5",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n6"
+    },
+    {
+      "id": "n6",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n6",
+      "toId": "n7"
+    },
+    {
+      "id": "n7",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n6",
+      "toId": "n8"
+    },
+    {
+      "id": "n8",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n6",
+      "toId": "n9"
+    },
+    {
+      "id": "n9",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n10"
+    },
+    {
+      "id": "n10",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n11"
+    },
+    {
+      "id": "n11",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n12"
+    },
+    {
+      "id": "n12",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n13"
+    },
+    {
+      "id": "n13",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n14"
+    },
+    {
+      "id": "n14",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n14",
+      "toId": "n15"
+    },
+    {
+      "id": "n15",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n16"
+    },
+    {
+      "id": "n16",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n17"
+    },
+    {
+      "id": "n17",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n17",
+      "toId": "n18"
+    },
+    {
+      "id": "n18",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n17",
+      "toId": "n19"
+    },
+    {
+      "id": "n19",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n17",
+      "toId": "n20"
+    },
+    {
+      "id": "n20",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n17",
+      "toId": "n21"
+    },
+    {
+      "id": "n21",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n17",
+      "toId": "n22"
+    },
+    {
+      "id": "n22",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n17",
+      "toId": "n23"
+    },
+    {
+      "id": "n23",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n17",
+      "toId": "n24"
+    },
+    {
+      "id": "n24",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n17",
+      "toId": "n25"
+    },
+    {
+      "id": "n25",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n17",
+      "toId": "n26"
+    },
+    {
+      "id": "n26",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n16",
+      "toId": "n27"
+    },
+    {
+      "id": "n27",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n28"
+    },
+    {
+      "id": "n28",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n29"
+    },
+    {
+      "id": "n29",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n28",
+      "toId": "n30"
+    },
+    {
+      "id": "n30",
+      "type": "",
+      "style": {},
+      "properties": {},
+      "fromId": "n28",
+      "toId": "n31"
+    }
+  ]
+}
